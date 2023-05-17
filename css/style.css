@@ -1,0 +1,12 @@
+:root{
+    --colorRed: #FF0052;
+    --colorBlue: #131661;
+    --colorWhite: #FFFFFF;
+    --lightgreen: #00B67A;
+    --colorBlack: #000000;
+    --secondaryBlue: #090E38;
+    --color-cards: #232B5C;
+}
+body{
+    height: 100%;
+}
